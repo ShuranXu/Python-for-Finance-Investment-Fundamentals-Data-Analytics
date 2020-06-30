@@ -1,7 +1,7 @@
 # Python-for-Finance-Investment-Fundamentals-Data-Analytics
 
 
-!['image'](./background.jpg)
+!['image'](./images/background.jpg)
 
 ## Course Description
 
